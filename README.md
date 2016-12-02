@@ -40,3 +40,17 @@ python deepdream.py [-h] -b BASE_MODEL [-l LAYER] -i IMAGE -g GUIDE_IMAGE -o OUT
 -g GUIDE_IMAGE is the path to the guide image that will be used while dreaming
 
 -o OUTPUT is the path to the output image
+
+# Sample Output
+
+Input Image:
+
+![Input Image](https://github.com/My-Machine-Learning-Projects/Guided-Deep-Dreaming/blob/master/input_image_1.jpg)
+
+Guide/Seed Image:
+
+![Guide/Seed Image](https://github.com/My-Machine-Learning-Projects/Guided-Deep-Dreaming/blob/master/guide_image_1.jpg)
+
+Output Image:
+
+![Output Image](https://github.com/My-Machine-Learning-Projects/Guided-Deep-Dreaming/blob/master/output_image_1.jpg)
